@@ -1,6 +1,4 @@
 # SQL-ch12
 SQL 相關指令
 
-CREATE DATABASE IF NOT EXISTS ch12_db
-CHARACTER SET utf8mb4
-COLLATE utf8mb4_unicode_ci;
+
